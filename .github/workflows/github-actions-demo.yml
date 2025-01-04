@@ -54,4 +54,4 @@ jobs:
         with:
           name: book
       - name: list
-        run: ls book
+        run: ls -R
